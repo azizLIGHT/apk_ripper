@@ -1,7 +1,7 @@
 # How to rip apps from your Android device on a Linux computer.
 
 * Download the `apk.sh` script.
-* Download the `bit.sh` script (found [here](https://github.com/bjchau/bit))/
+* Download the `bit.sh` script (found [here](https://github.com/bjchau/bit)).
 * Run the `bit.sh` file using `bit apk.sh apk`.
 
 The following steps are if you want to decode the app and look at the underlying code. If you just want the APK, the above scripts are enough.
